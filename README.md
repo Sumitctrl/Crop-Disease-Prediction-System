@@ -1,6 +1,6 @@
 # 🌿 Crop Disease Prediction System
 
-[✨ **Live App:** (https://crop-disease-prediction-system.streamlit.app/)
+✨ **Live App:** (https://crop-disease-prediction-system.streamlit.app/)
 
 A Streamlit web application that uses a deep learning model...
 A Streamlit web application that uses a deep learning model (TensorFlow/Keras) to identify common diseases in crop leaves from user-uploaded images. This system is designed to provide quick, accessible diagnostic support to farmers and agricultural enthusiasts.
