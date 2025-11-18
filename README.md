@@ -29,7 +29,7 @@ Bash
 
 python3.10 -m venv myenv
 source myenv/bin/activate  # On Linux/macOS
-# Or: .\myenv\Scripts\activate  # On Windows (Command Prompt/PowerShell)
+Or: .\myenv\Scripts\activate  # On Windows (Command Prompt/PowerShell)
 Install Dependencies: Use the environment.yml or requirements.txt file to install all necessary packages. Since the project uses TensorFlow and Streamlit, it's best to use the environment.yml for stability.
 
 Bash
