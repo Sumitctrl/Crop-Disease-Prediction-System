@@ -1,0 +1,9 @@
+# environment.yml
+name: crop-disease-prediction
+dependencies:
+  - python=3.10
+  - pip:
+    - streamlit==1.51.0  # Or whatever version you need
+    - numpy==2.3.5
+    - pillow==12.0.0
+    - tflite-runtime==2.11.0
